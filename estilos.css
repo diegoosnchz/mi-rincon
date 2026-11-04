@@ -1,26 +1,25 @@
 body {
-    font-family: Arial, sans-serif;
-    color: #333333;
-    background-color: #f5f0e6;
+    font-family: 'Times New Roman', Times;
+    font-size: 18px;
+    color: #e5e5e7;
+    background-color: #1c1c1e;
     margin: 0;
-    padding: 20px;
-    line-height: 1.6;
+    padding: 25px;
+    line-height: 1.5;
 }
 h1, h2 {
-    font-family: Georgia, serif;
-    color: #2b5d7a;
+    font-family: 'Times New Roman', Times;
+    color: #d9a05b;
 }
 h1 {
-    font-size: 36px;
+    font-size: 40px;
     text-align: center;
 }
 h2 {
-    font-size: 24px;
-    border-bottom: 2px solid #2b5d7a;
-    padding-bottom: 5px;
+    font-size: 30px;
 }
 a {
-    color: #2b5d7a;
+    color: #d9a05b;
     text-decoration: none;
 }
 a:hover {
@@ -33,24 +32,12 @@ img {
     border: 2px solid #ddd;
     margin: 10px 0;
 }
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-}
 th, td {
     border: 1px solid #999999;
     padding: 10px;
     text-align: left;
 }
 th {
-    background-color: #2b5d7a;
+    background-color: #047118;
     color: white;
-}
-.aviso {
-    background-color: lightyellow;
-    border: 2px solid orange;
-    padding: 15px;
-    border-radius: 8px;
-    margin: 15px 0;
 }
